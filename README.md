@@ -3,7 +3,9 @@ A simple ETL project.
 
 (E) Download files from a shared folder in Google Drive.    
 (T) Read each file and transformed it (duckdb). It only processes the files not processed before, control done in duckdb.       
-(L) Load the transformed data into a Postgresql database hosted in render.com.      
+(L) Load the transformed data into a Postgresql database hosted in render.com.     
+
+The front-end is only to click the button to start the process.
 
 ![Architecture](./pics/architecture.png)
 
