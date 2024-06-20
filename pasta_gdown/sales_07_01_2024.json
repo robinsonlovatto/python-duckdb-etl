@@ -1,0 +1,12 @@
+[
+    {"sale_date":"2024-01-07","price":57.58,"quantity":8,"client_id":29,"category":"Brinquedos"},
+    {"sale_date":"2024-01-07","price":53.95,"quantity":1,"client_id":28,"category":"Livros"},
+    {"sale_date":"2024-01-07","price":104.39,"quantity":2,"client_id":7,"category":"Alimentos"},
+    {"sale_date":"2024-01-07","price":345.35,"quantity":7,"client_id":24,"category":"Eletrônicos"},
+    {"sale_date":"2024-01-07","price":217.82,"quantity":6,"client_id":19,"category":"Roupas"},
+    {"sale_date":"2024-01-07","price":381.22,"quantity":8,"client_id":48,"category":"Brinquedos"},
+    {"sale_date":"2024-01-07","price":401.43,"quantity":9,"client_id":34,"category":"Livros"},
+    {"sale_date":"2024-01-07","price":346.2,"quantity":2,"client_id":12,"category":"Alimentos"},
+    {"sale_date":"2024-01-07","price":364.67,"quantity":4,"client_id":6,"category":"Eletrônicos"},
+    {"sale_date":"2024-01-07","price":330.62,"quantity":9,"client_id":47,"category":"Roupas"}
+]
