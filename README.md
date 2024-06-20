@@ -1,26 +1,9 @@
-
-poetry add streamlit
-
-
-streamlit run app.py
-
-poetry add gdown
-poetry add duckdb
-poetry add psycopg2-binary
-poetry add python-dotenv
-poetry add sqlalchemy
-
-
-
-
-
-
 # python-duckdb-etl
 A simple ETL project.
 
-Download files from a shared folder in Google Drive.
-Read each file and transformed it.
-Load the transformed data into a Postgresql hosted in render.com.
+(E) Download files from a shared folder in Google Drive.    
+(T) Read each file and transformed it (duckdb). It only processes the files not processed before, control done in duckdb.       
+(L) Load the transformed data into a Postgresql database hosted in render.com.      
 
 ![Architecture](./pics/architecture.png)
 
